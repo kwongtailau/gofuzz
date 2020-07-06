@@ -23,7 +23,7 @@ import (
 	"regexp"
 	"time"
 
-	"github.com/google/gofuzz/bytesource"
+	"github.com/kwongtailau/gofuzz/bytesource"
 	"strings"
 )
 

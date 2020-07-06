@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"math/rand"
 
-	"github.com/google/gofuzz"
+	"github.com/kwongtailau/gofuzz"
 )
 
 func ExampleSimple() {
